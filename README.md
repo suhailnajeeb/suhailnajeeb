@@ -18,7 +18,7 @@ Recent work spanning road-damage detection, explainable object detection, and de
 
 ## Find me
 
-- [Website](https://suhailnajeeb.github.io)
+- [Website](https://suhailnajeeb.com)
 - [LinkedIn](https://linkedin.com/in/suhailnajeeb)
 
 <!---
