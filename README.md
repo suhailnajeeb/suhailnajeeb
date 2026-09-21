@@ -1,6 +1,6 @@
 # Hi, I’m Suhail 👋
 
-I’m a computer vision researcher and engineer, and a PhD candidate at the University of Melbourne. My research explores how detection-transformer models can become more robust, explainable, and effective in real-world settings—especially when objects are small, difficult to localise, or captured under changing conditions.
+I’m a computer vision researcher and engineer, and a PhD candidate at the University of Melbourne. My research explores how detection-transformer models can become more robust, explainable, and effective in real-world settings, especially when objects are small, difficult to localise, or captured under changing conditions.
 
 Alongside my research, I build and test perception systems for robotics, with experience spanning object detection, stereo depth, 3D localisation, and edge deployment. I’ve also contributed to university–industry collaboration, software delivery, and teaching.
 
